@@ -1,0 +1,8 @@
+tokens.json
+.env
+.env.*
+.venv/
+.idea/
+__pycache__/
+*.pyc
+caramelldansen.mp3
